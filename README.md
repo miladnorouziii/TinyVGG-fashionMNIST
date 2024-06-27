@@ -9,7 +9,7 @@ Run the Main.py file to run the code. After running the code, you will need to s
 * Batch size
 * Optimizer model
 
-After running the code with a learning rate of 0.003, the number of epochs of 15 and the Adam optimizer, the following graphs and accuracies have been obtained.
+After running the code with a learning rate of 0.003, the number of epochs of 15 and the Adam optimizer, the following graphs and accuracies have been obtained.(For display and testing purposes only. Better results can be achieved by changing the parameters.)
 
 Accuracies:
 
